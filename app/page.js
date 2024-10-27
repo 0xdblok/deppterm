@@ -8,11 +8,11 @@ export default function Home() {
         
  
         
-        <section className="self-stretch mt-1.5 tracking-widest leading-7 max-md:max-w-full">
+        <section className="self-stretch mt-1.5 tracking-widest leading-7 max-md:max-w-full ">
         <p className="tracking-widest whitespace-pre">+----------------------------------+</p>
        
-          <p className="whitespace-pre pt-4">| $$$$ deppterminal TOKEN $$$$  |</p>
-          <p className="whitespace-pre pt-2">| ========================  |</p>
+          <p className="whitespace-pre pt-4">|   $$$ deppterminal TOKEN $$$    |</p>
+          <p className="whitespace-pre pt-2">|   ======================    |</p>
           <p className="whitespace-pre pt-2">|                                                   |</p>
           <a href="" className="whitespace-pre pt-2">|        LAUNCH DATE: [NOW]          |</a>
           <p className="whitespace-pre pt-2">|                                                   |</p>
