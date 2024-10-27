@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <section className="flex flex-col items-center px-20 pt-72 pb-5 text-xl bg-black text-center white max-md:px-5 max-md:pt-24">
+    <section className="flex flex-col items-center px-20 pt-72 pb-36 md:pb-10 text-xl bg-black text-center white max-md:px-5 max-md:pt-24">
       <article className="flex flex-col items-center max-w-full w-[447px] text-white">
 
         
