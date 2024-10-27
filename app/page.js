@@ -11,19 +11,19 @@ export default function Home() {
         <section className="self-stretch mt-1.5 tracking-widest leading-7 max-md:max-w-full">
         <p className="tracking-widest whitespace-pre">+----------------------------------+</p>
        
-          <p className="whitespace-pre pt-2">| $$$$ deppterminal TOKEN $$$$  |</p>
+          <p className="whitespace-pre pt-4">| $$$$ deppterminal TOKEN $$$$  |</p>
           <p className="whitespace-pre pt-2">| ========================  |</p>
-          <p className="whitespace-pre pt-1">|                                                   |</p>
-          <a href="" className="whitespace-pre pt-1">|   🚀 LAUNCH DATE: [NOW] 🚀     |</a>
-          <p className="whitespace-pre pt-1">|                                                   |</p>
-          <p className="whitespace-pre pt-1">| 💡 Decentralized Truth Engine 💡|</p>
-          <p className="whitespace-pre pt-1">|                                                   |</p>
-          <p className="whitespace-pre pt-1">|       Eco-Friendly Blockchains      |</p>
-          <p className="whitespace-pre pt-1">|                                                   |</p>
-          <a href="" className="whitespace-pre pt-1">|    👉 www.deppterminal.io 👈      |</a>
-          <p className="whitespace-pre pt-1">|                                                   |</p>
-          <p className="whitespace-pre pt-1">|  DISCLAIMER: Invest responsibly |</p>
-          <p className="tracking-widest whitespace-pre pt-1">+----------------------------------+</p>
+          <p className="whitespace-pre pt-2">|                                                   |</p>
+          <a href="" className="whitespace-pre pt-2">|        LAUNCH DATE: [NOW]          |</a>
+          <p className="whitespace-pre pt-2">|                                                   |</p>
+          <p className="whitespace-pre pt-2">|      Decentralized Truth Engine     |</p>
+          <p className="whitespace-pre pt-2">|                                                   |</p>
+          <p className="whitespace-pre pt-2">|       Eco-Friendly Blockchains      |</p>
+          <p className="whitespace-pre pt-2">|                                                   |</p>
+          <a href="https://deppterminal.xyz" className="whitespace-pre pt-2">|       www.deppterminal.xyz          |</a>
+          <p className="whitespace-pre pt-2">|                                                   |</p>
+          <p className="whitespace-pre pt-2">|  DISCLAIMER: Invest responsibly |</p>
+          <p className="tracking-widest whitespace-pre pt-4">+----------------------------------+</p>
         </section>
         
         <nav className="flex gap-3.5 items-center mt-80 max-w-full text-base w-[248px] max-md:mt-10">
