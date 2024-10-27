@@ -19,7 +19,8 @@ export default function Home() {
           <a href="https://deppterminal.xyz" className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|       www.deppterminal.xyz          |</a>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|                                                   |</p>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|  DISCLAIMER: Invest responsibly |</p>
-          <p className=" tracking-widest whitespace-pre relative  before:absolute before:inset-0 before:animate-typewriter before:bg-black">+----------------------------------+</p>
+          <p className="tracking-widest whitespace-pre relative  before:absolute before:inset-0 before:animate-typewriter before:bg-black pt-4">+----------------------------------+</p>
+
         </section>
         
         <nav className="flex gap-3.5 items-center mt-80 max-w-full text-base w-[248px] max-md:mt-10">
