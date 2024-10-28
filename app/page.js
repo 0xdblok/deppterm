@@ -2,9 +2,9 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <section className="flex flex-col items-center px-20 pt-72 pb-36 md:pb-10 text-xl bg-black text-center white max-md:px-5 max-md:pt-24">
-      <article className="flex flex-col items-center max-w-full w-[447px] text-white">
-        <section className="self-stretch mt-1.5 tracking-widest leading-7 max-md:max-w-full ">
+    <section className="flex flex-col items-center  px-20 pt-72 pb-36 md:pb-10 text-xl bg-black text-center white max-md:px-5 max-md:pt-24">
+      <article className="flex flex-col items-center  text-white">
+        <section className="self-stretch mt-1.5 tracking-widest leading-7 max-md:max-w-full p-6  ">
           <p className="tracking-widest whitespace-pre relative  before:absolute before:inset-0 before:animate-typewriter before:bg-black">+----------------------------------+</p>
        
           <p className="whitespace-pre pt-4 before:absolute before:inset-0 before:animate-typewriter before:bg-black">|   $$$ deppterminal TOKEN $$$    |</p>
