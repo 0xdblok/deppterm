@@ -13,7 +13,7 @@ export default function Home() {
           <p className="whitespace-pre pt-4 before:absolute before:inset-0 before:animate-typewriter before:bg-black">|   $$$ deppterminal TOKEN $$$    |</p>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|   ======================    |</p>
           <p className="whitespace-pre pt-2   before:absolute before:inset-0 before:animate-typewriter before:bg-blacke">|                                                   |</p>
-          <a href="" className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|        LAUNCH DATE: [TBA]          |</a>
+          <a href="" className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|         LAUNCH DATE: [TBA]          |</a>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|                                                   |</p>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|      Decentralized Truth Engine     |</p>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|                                                   |</p>
