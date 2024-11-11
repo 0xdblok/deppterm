@@ -1,9 +1,10 @@
 import Image from "next/image";
 import logo from "./logodepp.jpg";
+import depp from "./depp.png";
 export default function Home() {
   return (
     <section className="flex flex-col items-center   px-20  pb-36 md:pb-10 text-xl bg-black text-center white max-md:px-5 max-md:pt-4">
-     <div className="md:flex md:flex-col md:justify-start md:w-full "><Image  src={logo} alt="Skinny" width={140} height={140}/><h1 className="text-white text-start text-2xl"> Depp terminal</h1>
+     <div className="md:flex md:flex-col md:justify-start md:w-full "><div className="flex flex-col justify-center"><Image className="ml-4"  src={logo} alt="Skinny" width={140} height={140}/><Image  src={depp} alt="Skinny" width={185} height={170}/></div>
         </div>  <article className="flex flex-col items-center  bg-black  text-white pt-64">
        
         <section className="self-stretch mt-1.5 tracking-widest leading-7 bg-black max-md:max-w-full p-6  ">
