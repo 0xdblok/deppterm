@@ -19,9 +19,9 @@ export default function Home() {
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|                                                          |</p>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|         𝓔𝓬𝓸-𝓕𝓻𝓲𝓮𝓷𝓭𝓵𝔂 𝓑𝓵𝓸𝓬𝓴𝓬𝓱𝓪𝓲𝓷𝓼    |</p>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|                                                          |</p>
-          <a href="https://deppterminal.xyz" className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|       𝔀𝔀𝔀.𝓭𝓮𝓹𝓹𝓽𝓮𝓻𝓶𝓲𝓷𝓪𝓵.𝔁𝔂𝔃          |</a>
+          <a href="https://deppterminal.xyz" className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|        𝔀𝔀𝔀.𝓭𝓮𝓹𝓹𝓽𝓮𝓻𝓶𝓲𝓷𝓪𝓵.𝔁𝔂𝔃         |</a>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|                                                          |</p>
-          <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black text-sm">|   𝓓𝓘𝓢𝓒𝓛𝓐𝓘𝓜𝓔𝓡: 𝓘𝓷𝓿𝓮𝓼𝓽 𝓻𝓮𝓼𝓹𝓸𝓷𝓼𝓲𝓫𝓵𝔂    |</p>
+          <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black text-sm">|   𝓓𝓘𝓢𝓒𝓛𝓐𝓘𝓜𝓔𝓡: 𝓘𝓷𝓿𝓮𝓼𝓽 𝓻𝓮𝓼𝓹𝓸𝓷𝓼𝓲𝓫𝓵𝔂   |</p>
           <p className="tracking-widest whitespace-pre   before:absolute before:inset-0 before:animate-typewriter before:bg-black pt-4 text-2xl">+ ------------------------ +</p>
 
         </section>
