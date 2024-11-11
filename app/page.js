@@ -3,7 +3,7 @@ import logo from "./logodepp.jpg";
 export default function Home() {
   return (
     <section className="flex flex-col items-center   px-20  pb-36 md:pb-10 text-xl bg-black text-center white max-md:px-5 max-md:pt-4">
-     <div className="md:flex md:flex-col md:justify-start md:w-full "><Image  src={logo} alt="Skinny" width={140} height={140}/><h1 className="text-white text-start pl-2"> deppterminal</h1>
+     <div className="md:flex md:flex-col md:justify-start md:w-full "><Image  src={logo} alt="Skinny" width={140} height={140}/><h1 className="text-white text-start text-2xl"> Depp terminal</h1>
         </div>  <article className="flex flex-col items-center  bg-black  text-white pt-64">
        
         <section className="self-stretch mt-1.5 tracking-widest leading-7 bg-black max-md:max-w-full p-6  ">
@@ -12,7 +12,7 @@ export default function Home() {
           <p className="whitespace-pre pt-4 before:absolute before:inset-0 before:animate-typewriter before:bg-black">|   $$$ deppterminal TOKEN $$$    |</p>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|   ======================    |</p>
           <p className="whitespace-pre pt-2   before:absolute before:inset-0 before:animate-typewriter before:bg-blacke">|                                                   |</p>
-          <a href="" className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|        LAUNCH DATE: [NOW]          |</a>
+          <a href="" className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|        LAUNCH DATE: [TBA]          |</a>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|                                                   |</p>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|      Decentralized Truth Engine     |</p>
           <p className="whitespace-pre pt-2  before:absolute before:inset-0 before:animate-typewriter before:bg-black">|                                                   |</p>
