@@ -5,9 +5,9 @@ import lol from "./lol.png";
 export default function Home() {
   return (
     <section className="flex flex-col items-center   px-20  pb-36 md:pb-10 text-xl bg-black text-center white max-md:px-5 max-md:pt-4">
-     <div className="md:flex md:flex-col md:justify-start md:w-full ">
-      <div className="flex flex-col justify-center">
-      <Image className="ml-4"  
+     <div className="md:flex md:flex-col  md:w-full  ">
+      <div className="flex flex-col justify-center items-center">
+      <Image className="ml-4 "  
       src={logo} alt="Skinny" 
       width={140} 
       height={140}/>
