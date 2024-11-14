@@ -1,12 +1,31 @@
 import Image from "next/image";
 import logo from "./logodepp.jpg";
 import depp from "./depp.png";
+import lol from "./lol.png";
 export default function Home() {
   return (
     <section className="flex flex-col items-center   px-20  pb-36 md:pb-10 text-xl bg-black text-center white max-md:px-5 max-md:pt-4">
-     <div className="md:flex md:flex-col md:justify-start md:w-full "><div className="flex flex-col justify-center"><Image className="ml-4"  src={logo} alt="Skinny" width={140} height={140}/><Image  src={depp} alt="Skinny" width={185} height={170}/></div>
+     <div className="md:flex md:flex-col md:justify-start md:w-full ">
+      <div className="flex flex-col justify-center">
+      <Image className="ml-4"  
+      src={logo} alt="Skinny" 
+      width={140} 
+      height={140}/>
+    
+      <Image  
+      src={depp} 
+      alt="Skinny"
+       width={185} 
+       height={170}/>
+       </div>
+       <p className="text-zinc-200 mt-24 px-8 text-base "> Delves into the vast sea of information, surfacing with facts, insights, and knowledge</p>
         </div>  <article className="flex flex-col items-center  bg-black  text-white pt-64">
-       
+         
+      <Image  
+      src={lol} 
+      alt="Skinny"
+       width={185} 
+       height={170}/>
         <section className="self-stretch text-base mt-1.5 tracking-widest leading-7 bg-black max-md:max-w-full p-6  ">
           <p className="tracking-widest whitespace-pre  before:absolute before:inset-0 before:animate-typewriter before:bg-black text-2xl">+ ------------------------ +</p>
        
