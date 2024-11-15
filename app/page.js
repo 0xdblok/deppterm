@@ -19,7 +19,7 @@ export default function Home() {
        height={170}/>
        </div>
        <p className="text-zinc-200 mt-24 px-8 text-base "> Delves into the vast sea of information, surfacing with facts, insights, and knowledge</p>
-        </div>  <article className="flex flex-col items-center  bg-black  text-white pt-64">
+       <p className="text-zinc-200 mt-24 px-8 text-base ">0x</p> </div>  <article className="flex flex-col items-center  bg-black  text-white pt-64">
          
       <Image  
       src={lol} 
@@ -51,7 +51,7 @@ export default function Home() {
             chart
           </a>
           <span aria-hidden="true" className="self-stretch">|</span>
-          <a href="#backrooms" className="self-stretch my-auto hover:underline focus:outline-none focus:ring-2 focus:ring-offset-2">
+          <a href="https://x.com/i/communities/1856907010119250378" className="self-stretch my-auto hover:underline focus:outline-none focus:ring-2 focus:ring-offset-2">
             depprooms
           </a>
         </nav>
