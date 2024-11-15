@@ -19,7 +19,7 @@ export default function Home() {
        height={170}/>
        </div>
        <p className="text-zinc-200 mt-24 px-8 text-base "> Delves into the vast sea of information, surfacing with facts, insights, and knowledge</p>
-       <p className="text-zinc-200 mt-24 px-8 text-base ">0x</p> </div>  <article className="flex flex-col items-center  bg-black  text-white pt-64">
+       <p className="text-zinc-200 mt-24 px-8 text-base ">0xFA071DeD99FF157897677Ee8f54BB0aeaB1D022c</p> </div>  <article className="flex flex-col items-center  bg-black  text-white pt-64">
          
       <Image  
       src={lol} 
