@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "./logodepp.jpg";
+import logo from "./logo.jpg";
 import depp from "./depp.png";
 import lol from "./lol.png";
 export default function Home() {
@@ -19,7 +19,11 @@ export default function Home() {
        height={170}/>
        </div>
        <p className="text-zinc-200 mt-24 px-8 text-base "> Delves into the vast sea of information, surfacing with facts, insights, and knowledge</p>
-       <p className="text-zinc-200 mt-24 px-8 text-base ">0xFA071DeD99FF157897677Ee8f54BB0aeaB1D022c</p> </div>  <article className="flex flex-col items-center  bg-black  text-white pt-64">
+       <p className="text-zinc-200  px-8 text-base ">
+
+        Our purpose is to reward holders by giving them portion on trading fees
+        </p> </div>  <article className="flex flex-col items-center  bg-black  text-white pt-64">
+
          
       <Image  
       src={lol} 
@@ -29,17 +33,10 @@ export default function Home() {
     
         <div className="px-16 md:px-28 lg:px-60 xl:px-80  text-sm">
       
-        <p className="pt-4" >Depp Terminal is an innovative search engine designed to prioritize truth and accuracy in the information it delivers to users. In an era where misinformation, fake news, and unreliable sources are rampant across the web, Depp Terminal aims to create a reliable, trustworthy platform for finding factual data. By using advanced algorithms and a rigorous validation process, it identifies the most credible sources available for any query, making it a valuable tool for researchers, journalists, students, and everyday internet users seeking the truth</p>
-      <p className="pt-4">
-      The core mission of Depp Terminal is to revolutionize how we access information online. Traditional search engines like Google and Bing often return a mix of authoritative content alongside misleading or biased materials. Depp Terminal, however, uses a blend of machine learning, AI, and human verification processes to analyze web pages for their credibility before presenting them to the user. Its goal is to filter out unreliable content, ensuring that users are directed only to trustworthy, fact-checked websites.</p>
-      <p className="pt-4">At the heart of Depp Terminal is its sophisticated algorithm, which employs natural language processing (NLP) to understand not just the content of a page, but also its context. Through NLP, the system can assess whether the content is likely to be biased, outdated, or speculative. Additionally, Depp Terminal uses a proprietary ranking system based on source credibility, expert verification, and citation networks. This technology helps to create a hierarchy of truthfulness, presenting the most reliable sources at the top of search results.</p>
-      <p className="pt-4">Depp Terminal’s user interface is designed for simplicity and efficiency. The search engine presents results in a clean, organized manner, making it easy for users to navigate through the most credible sources. The results page offers quick access to a page’s trust score, along with a brief summary of why the result was ranked highly. This transparency allows users to make informed decisions about the information they consume and encourages critical thinking.</p>
-      <p className="pt-4">One of the standout features of Depp Terminal is its partnerships with leading fact-checking organizations, such as Snopes, FactCheck.org, and PolitiFact. These collaborations ensure that the search engine’s validation process is constantly updated and aligned with global standards of truth verification. The integration of these fact-checking bodies allows Depp Terminal to provide real-time debunking of false or misleading claims that circulate online, giving users the tools to discern fact from fiction.</p>
-      <p className="pt-4">Transparency in the ranking process is crucial for ensuring trust in Depp Terminal. Unlike traditional search engines, which often obscure how results are ranked, Depp Terminal gives users access to detailed explanations of how each result was determined. Users can view the credibility score of each source, see what factors influenced the ranking, and even access a full list of sources consulted during the verification process. This level of openness fosters trust and accountability.</p>
-      <p className="pt-4"> In the battle against misinformation, Depp Terminal serves as a crucial weapon. By utilizing real-time data from news outlets, academic journals, and peer-reviewed publications, the search engine helps users avoid the trap of echo chambers and misleading narratives. It actively works to prevent the spread of conspiracy theories, hoaxes, and unverified claims, making it an indispensable tool for anyone interested in accessing reliable, evidence-based information.</p>
-      <p className="pt-4">Depp Terminal is not just a search engine; it’s a resource for learning and research Scholars, students, and researchers benefit from its ability to deliver credible and well-sourced academic papers, books, and articles that are free from the noise of unreliable content. For educational institutions, Depp Terminal can be used as a reliable tool for students conducting research, helping them avoid citations from dubious sources and ensuring the integrity of their work.</p>
-      <p className="pt-4">Depp Terminal encourages community involvement in the fight for truth. Users can report misleading results or suggest corrections to existing information. Through a peer-reviewed, community-driven approach, the platform continuously improves its accuracy. Users are also encouraged to contribute to the development of the truth-teller database by submitting resources, studies, or news articles that meet specific credibility criteria.</p>
-      <p className="pt-4">Looking to the future, Depp Terminal plans to expand its scope by incorporating multiple languages and serving a broader global audience. The platform aims to integrate AI-driven personalized news feeds that prioritize accuracy, allowing users to receive information tailored to their interests without sacrificing trustworthiness. Furthermore, Depp Terminal envisions becoming a standard tool for educators, journalists, and fact-checkers around the world, contributing to a more informed society.</p>
+      
+      <p className="pt-4 px-16  break-words break-all">
+      ❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔</p>
+     
       
        </div> 
         <nav className="flex gap-3.5 items-center mt-80 max-w-full text-base w-[248px] max-md:mt-10">
@@ -61,6 +58,13 @@ export default function Home() {
 }
 
 /*
+
+Our purpose is to reward holders by giving them portion on trading fees
+Thats out utility
+❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔
+
+
+
 <section className="flex flex-col items-center px-20 pt-72 pb-36 md:pb-10 text-xl bg-black text-center white max-md:px-5 max-md:pt-24">
 <article className="flex flex-col items-center max-w-full w-[447px] text-white">
 
@@ -120,3 +124,13 @@ export default function Home() {
           <p className="tracking-widest whitespace-pre   before:absolute before:inset-0 before:animate-typewriter before:bg-black pt-4 text-2xl">+ ------------------------ +</p>
 
         </section>*/
+
+
+        /* <p className="pt-4">At the heart of Depp Terminal is its sophisticated algorithm, which employs natural language processing (NLP) to understand not just the content of a page, but also its context. Through NLP, the system can assess whether the content is likely to be biased, outdated, or speculative. Additionally, Depp Terminal uses a proprietary ranking system based on source credibility, expert verification, and citation networks. This technology helps to create a hierarchy of truthfulness, presenting the most reliable sources at the top of search results.</p>
+      <p className="pt-4">Depp Terminal’s user interface is designed for simplicity and efficiency. The search engine presents results in a clean, organized manner, making it easy for users to navigate through the most credible sources. The results page offers quick access to a page’s trust score, along with a brief summary of why the result was ranked highly. This transparency allows users to make informed decisions about the information they consume and encourages critical thinking.</p>
+      <p className="pt-4">One of the standout features of Depp Terminal is its partnerships with leading fact-checking organizations, such as Snopes, FactCheck.org, and PolitiFact. These collaborations ensure that the search engine’s validation process is constantly updated and aligned with global standards of truth verification. The integration of these fact-checking bodies allows Depp Terminal to provide real-time debunking of false or misleading claims that circulate online, giving users the tools to discern fact from fiction.</p>
+      <p className="pt-4">Transparency in the ranking process is crucial for ensuring trust in Depp Terminal. Unlike traditional search engines, which often obscure how results are ranked, Depp Terminal gives users access to detailed explanations of how each result was determined. Users can view the credibility score of each source, see what factors influenced the ranking, and even access a full list of sources consulted during the verification process. This level of openness fosters trust and accountability.</p>
+      <p className="pt-4"> In the battle against misinformation, Depp Terminal serves as a crucial weapon. By utilizing real-time data from news outlets, academic journals, and peer-reviewed publications, the search engine helps users avoid the trap of echo chambers and misleading narratives. It actively works to prevent the spread of conspiracy theories, hoaxes, and unverified claims, making it an indispensable tool for anyone interested in accessing reliable, evidence-based information.</p>
+      <p className="pt-4">Depp Terminal is not just a search engine; it’s a resource for learning and research Scholars, students, and researchers benefit from its ability to deliver credible and well-sourced academic papers, books, and articles that are free from the noise of unreliable content. For educational institutions, Depp Terminal can be used as a reliable tool for students conducting research, helping them avoid citations from dubious sources and ensuring the integrity of their work.</p>
+      <p className="pt-4">Depp Terminal encourages community involvement in the fight for truth. Users can report misleading results or suggest corrections to existing information. Through a peer-reviewed, community-driven approach, the platform continuously improves its accuracy. Users are also encouraged to contribute to the development of the truth-teller database by submitting resources, studies, or news articles that meet specific credibility criteria.</p>
+      <p className="pt-4">Looking to the future, Depp Terminal plans to expand its scope by incorporating multiple languages and serving a broader global audience. The platform aims to integrate AI-driven personalized news feeds that prioritize accuracy, allowing users to receive information tailored to their interests without sacrificing trustworthiness. Furthermore, Depp Terminal envisions becoming a standard tool for educators, journalists, and fact-checkers around the world, contributing to a more informed society.</p>*/
