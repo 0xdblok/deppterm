@@ -22,9 +22,12 @@ export default function Home() {
        <p className="text-zinc-200  px-8 text-base ">
 
         Our purpose is to reward holders by giving them portion on trading fees
-        </p> </div>  <article className="flex flex-col items-center  bg-black  text-white pt-64">
+        </p>      <p  className="text-zinc-200 mt-24 px-8 text-base ">0x28090798AF5243FcAAb4AadfF1faCAf7D16ae8cF</p>
+        
+        </div>
+          <article className="flex flex-col items-center  bg-black  text-white pt-64">
 
-         
+    
       <Image  
       src={lol} 
       alt="Skinny"
