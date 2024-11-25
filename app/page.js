@@ -22,7 +22,7 @@ export default function Home() {
        <p className="text-zinc-200  px-8 text-base ">
 
         Our purpose is to reward holders by giving them portion on trading fees
-        </p>      <p  className="text-zinc-200 mt-24 px-8 text-base ">0x28090798AF5243FcAAb4AadfF1faCAf7D16ae8cF</p>
+        </p>  <p className="text-zinc-100 text-sm font-thin">deployed using clanker ai</p>    <p  className="text-zinc-200 mt-24 px-8 text-base ">0x28090798AF5243FcAAb4AadfF1faCAf7D16ae8cF</p>
         <div className=" pt-8">
         <a  href="https://app.uniswap.org/swap" className="rounded-full border border-slate-300 py-2 px-4 text-center text-sm transition-all shadow-sm hover:shadow-lg text-zinc-100" type="button">
   Buy on Uniswap
